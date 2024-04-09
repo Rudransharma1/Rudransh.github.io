@@ -40,7 +40,9 @@ SENTIMENT ANALYSIS -RESTAURANT REVIEWS
 
 EDUCATION
 Postgraduate Certificate, Business Insights and Analytics, Humber College, Toronto, Canada	2022-2024
+
 Bachelor of Engineering, Gujarat Technological University, India	2017-2021
+
 CERTIFICATIONS
 Data Analytics, Google	July 2023
 Data Science, Weltec Institute of Technology	Feb 2022
