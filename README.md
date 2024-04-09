@@ -1,2 +1,9 @@
-# Rudransh.github.io
-Rudransh.github.io/Portfolio
+# Data Analyst
+
+###Education
+Business insights and analytics / Humber College 
+
+###Projects 
+Maket basket analysis 
+
+
