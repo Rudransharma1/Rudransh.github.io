@@ -14,6 +14,7 @@ Key responsibilities include addressing customer inquiries, resolving issues pro
 •	Drove 17% revenue growth by optimizing product management and store operations.
 •	Mentored 7 team members in POS operations and customer analytics.
 •	Expedited complaint resolution by 23%, ensuring heightened satisfaction.
+
 DATA ANALYST, KS TECHNOLOGIES, GUJARAT, INDIA	                                                                                               [07/2021– 02/2022]
 Throughout my tenure, the focus remained on utilizing data analysis to drive improvements in various aspects of the company’s operations. Reported to IT manager 
 •	Enhanced KPI (Data Accuracy rate, Data Quality Improvement, Shipment delays, Turnaround time) alignment by 30%, resulting in a 25% increase in customer satisfaction. 
@@ -26,10 +27,12 @@ REVENUE OPTIMIZATION AT LAKESHORE AIRWAYS THROUGH CUSTOMER-CENTRIC DATA ANALYSIS
 	Elevate 14.03% satisfaction rate, identified issues in Inflight Wi-Fi and Online Booking during 5-year revenue analysis.
 	Applied systematic data cleaning, advanced analytics, and strategic recommendations.
 	Drove 13.09% revenue growth at Lakeshore Airways through precision-driven enhancements.
+
 LABOR TRENDS ANALYSIS FOR IMMIGRANTS 
 	Analyzed Canadian labor trends (Mar '06 - Nov 20) using advanced statistics, focusing on demographics and education.
 	Implemented innovative strategies, including online training and precise statistical modeling.
 	Elevated decision-making, achieving a 16% increase in immigrant employment through impactful tech-centric policies.
+
 SENTIMENT ANALYSIS -RESTAURANT REVIEWS
 	Developed an LSTM-based model at Humber College to classify restaurant reviews, achieving a 15% enhancement in accuracy.
 	Employed data preprocessing, using LSTM for analysis, and fine-tuned 3 hyperparameters to enhance accuracy.
